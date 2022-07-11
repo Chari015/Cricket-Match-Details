@@ -25,7 +25,6 @@ const initializeDbAndServer = async () => {
     process.exit(1);
   }
 };
-
 initializeDbAndServer();
 
 // Player Details Table
